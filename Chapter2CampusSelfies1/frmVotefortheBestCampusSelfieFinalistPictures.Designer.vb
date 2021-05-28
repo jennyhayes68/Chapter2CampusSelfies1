@@ -67,17 +67,17 @@ Partial Class frmVotefortheBestCampusSelfieFinalistPictures
         '
         'PicSelfie1
         '
-        Me.PicSelfie1.Location = New System.Drawing.Point(130, 186)
+        Me.PicSelfie1.Location = New System.Drawing.Point(130, 163)
         Me.PicSelfie1.Name = "PicSelfie1"
-        Me.PicSelfie1.Size = New System.Drawing.Size(204, 129)
+        Me.PicSelfie1.Size = New System.Drawing.Size(204, 147)
         Me.PicSelfie1.TabIndex = 3
         Me.PicSelfie1.TabStop = False
         '
         'PicSelfie2
         '
-        Me.PicSelfie2.Location = New System.Drawing.Point(451, 186)
+        Me.PicSelfie2.Location = New System.Drawing.Point(451, 163)
         Me.PicSelfie2.Name = "PicSelfie2"
-        Me.PicSelfie2.Size = New System.Drawing.Size(207, 129)
+        Me.PicSelfie2.Size = New System.Drawing.Size(217, 147)
         Me.PicSelfie2.TabIndex = 4
         Me.PicSelfie2.TabStop = False
         '
